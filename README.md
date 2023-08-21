@@ -1,6 +1,6 @@
 ## Olá! Eu sou a Laura Andrade
 
-- 🌱 Estudando Java Script
+- 🌱 Estudando JavaScript
 <div>
 	<a href="https://github.com/andrrade">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
