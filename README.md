@@ -4,7 +4,7 @@
 <div>
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=false&theme=github_dark">
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=github_dark&layout=compact">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" style="visibility:visible;max-width:100%;">
+   <img height="160em" src="https://snk-one.vercel.app/api/github-user-contribution/">
 <div>
 
 <div style="display: inline_block"><br>
