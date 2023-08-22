@@ -1,4 +1,4 @@
-## Olá! Eu sou a Laura Andrade
+## Olá! Eu sou a Laura
 
 - 🌱 Estudando JavaScript
 <div>
