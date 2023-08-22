@@ -2,8 +2,8 @@
 
 - 🌱 Estudando JavaScript
 <div>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=false&theme=github_dark">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=github_dark&layout=compact">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&theme=radical">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=radical&layout=compact">
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
