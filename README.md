@@ -21,9 +21,7 @@
 <div>
  
 <img height="200em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=donut">
-
-[![Laura github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=andrrade&bg_color=transparent&color=7951eb&line=FFFFFF&point=043258&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact">
 
 <picture>
   <source
