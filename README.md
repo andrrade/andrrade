@@ -17,11 +17,10 @@
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-[![Laura GitHub Streak](https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=250)](https://git.io/streak-stats)
-
 <div style="display: flex; flex-wrap: wrap;">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github" />
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact">
+  <img height="150em" src="https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=400">
 </div>
 
 <picture>
