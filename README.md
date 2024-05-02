@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:c792ea,100:011627&height=200&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=venom&color=0:c792ea,100:7fdbca&height=200&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=011627&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+:%29+;Estou+cursando+ADS+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c792ea&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+:%29+;Estou+cursando+ADS+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
 
 <img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" align="right" alt="Animação da logo do GitHub">
 
@@ -45,4 +45,4 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-andrade-38a962289/)
 <a href="mailto:lauraandradedeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:011627,100:c792ea&height=120&section=footer"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:7fdbca,100:c792ea&height=120&section=footer"/> 
