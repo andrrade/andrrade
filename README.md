@@ -18,6 +18,8 @@
   para ver meus projetos e seja bem-vindo(a)! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </p>
 
+
+
 <!-- Linguagens -->
 <h3 align="left">Linguagens Utilizadas:</h3>
 <div style="display: inline_block"><br>
@@ -62,11 +64,22 @@
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
+<!-- Ícones Minecraft-->
+ <div>
+   <h3 align="left"><img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/54_Chest.png" width="32" height="32"> Principais projetos:</h3>
+   <div style="display: inline_block"><br>
+  <p><a target="_blank" href="https://github.com/andrrade/Faculdade"> Faculdade-ADS <img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/381_Eye%20of%20Ender.png" width="32" height="32"></a></p>
+   <p><a target="_blank" href="https://github.com/andrrade/Curso-JavaScript-Guanabara"> Curso-JavaScript-Guanabara <img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/381_Eye%20of%20Ender.png" width="32" height="32"></a></p>
+     </div>
+</div>
+
 <!-- Contato -->
 <h3 align="left">💻 Contato</h3>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-andrade-38a962289/)
 <a href="mailto:lauraandradedeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7fdbca,100:c792ea&height=120&section=footer"/> 
