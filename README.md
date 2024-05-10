@@ -79,6 +79,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/laura-andrade-38a962289/)
 <a href="mailto:lauraandradedeoliveira@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+<!-- GIF -->
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZqcWN1MjY3a3BhZGFzczlseW92bDlqbXA2ZTlidzJhbGx6OTIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Gato batendo no teclado">
+</p>
 
 
 <!-- Footer -->
