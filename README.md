@@ -81,7 +81,7 @@
 
 <!-- GIF -->
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZqcWN1MjY3a3BhZGFzczlseW92bDlqbXA2ZTlidzJhbGx6OTIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Gato batendo no teclado">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZqcWN1MjY3a3BhZGFzczlseW92bDlqbXA2ZTlidzJhbGx6OTIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Gato batendo no teclado" width="200">
 </p>
 
 
