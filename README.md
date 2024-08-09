@@ -29,12 +29,16 @@
 </div>
 
 <!-- Estatísticas -->
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</p>
 
-<div style="display: flex; flex-wrap: wrap;">
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github&card_width=100" />
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact&card_width=100">
+    <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=300">
 </div>
+
 
 <!-- Contribuição -->
 <picture>
