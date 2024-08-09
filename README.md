@@ -1,5 +1,5 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:c792ea,100:7fdbca&height=200&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c792ea,100:7fdbca&height=100&section=header"/>
 
 <!-- Typing SVG -->
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c792ea&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+:%29+;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
@@ -56,14 +56,10 @@
   />
 </picture>
 
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
-<!-- Contador de Visitas -->
-<div>
-  <p align="center"><b>Visitors Count</b></p>
-  
-  <p align="center"><img align="center" src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fandrrade&s=50&c=7fdbca&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p><br>
-</div>
+
+
+
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
 
@@ -78,6 +74,14 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZqcWN1MjY3a3BhZGFzczlseW92bDlqbXA2ZTlidzJhbGx6OTIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Gato batendo no teclado" width="200">
 </p>
 
+![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+
+<!-- Contador de Visitas -->
+<div align="center">
+  <p><b>Visitors Count</b></p>
+  
+  <p><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fandrrade&s=35&c=7fdbca&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></p><br>
+</div>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7fdbca,100:c792ea&height=120&section=footer"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7fdbca,100:c792ea&height=100&section=footer"/> 
