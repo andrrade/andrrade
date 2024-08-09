@@ -2,13 +2,13 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:c792ea,100:7fdbca&height=200&section=header"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c792ea&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+:%29+;Estou+cursando+ADS+na+Fatec!;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c792ea&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+:%29+;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
 
 <!-- Logo GitHub -->
 <img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
 
 <!-- Introdução -->
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas e estudando JavaScript.</p>
+<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.</p>
 <p>
   <sup>
     <kbd>
@@ -34,7 +34,6 @@
 <div style="display: flex; flex-wrap: wrap;">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github&card_width=100" />
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact&card_width=100">
-    <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=300">
 </div>
 
 <!-- Contribuição -->
@@ -63,15 +62,6 @@
 </div>
 
 ![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<!-- Ícones Minecraft-->
- <div>
-   <h3 align="left"><img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/54_Chest.png" width="32" height="32"> Principais projetos:</h3>
-   <div style="display: inline_block"><br>
-  <p><a target="_blank" href="https://github.com/andrrade/Faculdade"> Faculdade-ADS <img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/381_Eye%20of%20Ender.png" width="32" height="32"></a></p>
-   <p><a target="_blank" href="https://github.com/andrrade/Curso-JavaScript-Guanabara"> Curso-JavaScript-Guanabara <img align="center" src="https://github.com/undrfined/mc-icons/blob/master/pics/381_Eye%20of%20Ender.png" width="32" height="32"></a></p>
-     </div>
-</div>
 
 <!-- Contato -->
 <h3 align="left">💻 Contato</h3>
