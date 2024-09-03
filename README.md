@@ -1,10 +1,10 @@
 <!-- Header -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c792ea,100:7fdbca&height=100&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=header"/>
 
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/andrrade/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,%20eu%20sou%20a%20Laura%20:)&font=Fira%20Code&center=true&width=440&height=45&color=c792ea&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,%20eu%20sou%20a%20Laura%20:)&font=Fira%20Code&center=true&width=440&height=45&color=c791ebff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
-    <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FBC02D?style=for-the-badge&logo=repo&logoColor=white&labelColor=FBC02D" style="height: 30px;"/>
+    <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FBC02D?style=for-the-badge&logo=repo&logoColor=black&labelColor=eba800" style="height: 30px;"/>
   </a>
 
   <!-- GitHub Followers Badge -->
@@ -93,4 +93,4 @@ const LauraAndrade = {
 </p>
 
 <!-- Footer -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7fdbca,100:c792ea&height=100&section=footer"/> 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=footer"/> 
