@@ -48,9 +48,9 @@
 <!-- JavaScript code -->
 ```javascript
 const LauraAndrade = {
-  pronouns: "she/her", // Pronomes
-  code: ["JavaScript", "HTML", "CSS", "Java"], // Linguagens de programação
-  currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." // Atualidade
+  pronouns: "she/her", 
+  code: [Javascript, HTML, CSS, Java],
+  currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." 
 }
 ```
 
