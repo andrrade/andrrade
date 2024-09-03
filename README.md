@@ -2,50 +2,78 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c792ea,100:7fdbca&height=100&section=header"/>
 
 <!-- Typing SVG -->
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=c792ea&size=40&center=false&vCenter=true&width=1000&lines=Olá,+eu+sou+a+Laura+:%29+;Esses+são+alguns+dos+meus+projetos...+)](https://git.io/typing-svg)
+<p align="center">
+  <a href="https://github.com/andrrade/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,%20eu%20sou%20a%20Laura%20:)&font=Fira%20Code&center=true&width=440&height=45&color=c792ea&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+  </a>
+</p>
 
-<!-- Logo GitHub -->
+<!-- Contact Badges -->
+<p align="center">
+  <!-- LinkedIn Badge -->
+  <a href="https://www.linkedin.com/in/laura-andrade-38a962289" style="text-decoration: none;">
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba" style="height: 30px;"/>
+  </a>
+  
+  <!-- Gmail Badge -->
+  <a href="mailto:devandrrade@gmail.com" style="text-decoration: none;">
+    <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" style="height: 30px;"/>
+  </a>
+
+  <!-- GitHub Repositories Badge -->
+  <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
+    <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FBC02D?style=for-the-badge&logo=repo&logoColor=white&labelColor=FBC02D" style="height: 30px;"/>
+  </a>
+
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andrrade?color=4CAF50&labelColor=388E3C&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="height: 30px;"/>
+  </a>
+
+  <!-- Profile Views Counter -->
+  <a href="https://github.com/andrrade" style="text-decoration: none;">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=andrrade&color=800080&style=for-the-badge&label=VIEWS" style="height: 30px;"/>
+  </a>
+</p>
+
+<!-- GitHub Logo -->
 <img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
 
-<!-- Introdução -->
-<p align="left">Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca.</p>
+<!-- Welcome Message -->
 <p>
-  <sup>
-    <kbd>
-      <a href="https://github.com/andrrade?tab=repositories" style="font-size: 1.5em;">Clique aqui</a>
-    </kbd>
-  </sup>
-  para ver meus projetos e seja bem-vindo(a)! 
+  Seja bem-vindo(a)! 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </p>
 
-<!-- Linguagens -->
-<h3 align="left">Linguagens Utilizadas:</h3>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Laura-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Laura-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Laura-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+<!-- JavaScript code -->
+```javascript
+const LauraAndrade = {
+  pronouns: "she/her", // Pronomes
+  code: ["JavaScript", "HTML", "CSS", "Java"], // Linguagens de programação
+  currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." // Atualidade
+}
+```
 
-<!-- Estatísticas -->
+<!-- GitHub Stats -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </p>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Stats Cards -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github&card_width=100" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact&card_width=100">
   <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=300">
 </div>
 
-<!-- Contribuição -->
+<!-- Contribution Graph -->
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
   />
   <source
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
     srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
   />
   <img
@@ -54,30 +82,15 @@
   />
 </picture>
 
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
+<!-- Separator Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
 
-<!-- Contato -->
-<h3 align="left">💻 Contato</h3>
-<p align="left">
-  <a href="mailto:lauraandradedeolivira@gmail.com" title="Gmail">
-    <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/laura-andrade-38a962289/" title="LinkedIn">
-    <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://api.whatsapp.com/send?phone=16993931020" title="WhatsApp">
-    <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white" alt="WhatsApp"/></a>
+<!-- Philosopher Quote -->
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=catppuccin_mocha&quote=Toda%20reforma%20interior%20e%20toda%20mudan%C3%A7a%20para%20melhor%20dependem%20exclusivamente%20da%20aplica%C3%A7%C3%A3o%20do%20nosso%20pr%C3%B3prio%20esfor%C3%A7o.&author=Kant" alt="Readme Quotes" />
+  </a>
 </p>
-
-![linha](https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif)
-
-<table align="center">
-  <tr>
-    <td><img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTZqcWN1MjY3a3BhZGFzczlseW92bDlqbXA2ZTlidzJhbGx6OTIxcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif" alt="Gato batendo no teclado" width="180"></td>
-    <td><img src="https://visit-counter.vercel.app/counter.png?page=https%3A%2F%2Fgithub.com%2Fandrrade&s=30&c=7fdbca&bg=00000000&no=7&ff=digi&tb=Visits%3A++&ta=" /></td>
-  </tr>
-</table>
-
-
-
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7fdbca,100:c792ea&height=100&section=footer"/> 
