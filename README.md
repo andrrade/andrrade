@@ -4,7 +4,7 @@
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/andrrade/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,%20eu%20sou%20a%20Laura%20:)&font=Fira%20Code&center=true&width=440&height=45&color=c791ebff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Olá,%20eu%20sou%20a%20Laura%20:);Amo%20estudar%20tecnologia%20💜!;&font=Fira%20Code&center=true&width=440&height=45&color=c791ebff&vCenter=true&pause=1000&size=22" alt="Typing SVG" />
   </a>
 </p>
 
@@ -40,6 +40,15 @@
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </p>
 
+<!-- JavaScript code -->
+```javascript
+const LauraAndrade = {
+  pronouns: "she/her", 
+  code: [Javascript, HTML, CSS, Java],
+  currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." 
+}
+```
+
 ### 🛠️ Languages, Tools and Frameworks
 <p>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1155ba.svg?logo=css3&logoColor=white"></a> 
@@ -50,9 +59,6 @@
     <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-f26d00.svg?logo=java&logoColor=white"></a>
 </p>
-
-
-
 
 <!-- GitHub Stats -->
 <p align="center">
