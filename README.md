@@ -12,28 +12,23 @@
 <p align="center">
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/laura-andrade-38a962289" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba" style="height: 30px;"/>
-  </a>
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba" style="height: 30px;"/></a>
   
   <!-- Gmail Badge -->
   <a href="mailto:devandrrade@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" style="height: 30px;"/>
-  </a>
+    <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" style="height: 30px;"/></a>
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
-    <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FBC02D?style=for-the-badge&logo=repo&logoColor=black&labelColor=eba800" style="height: 30px;"/>
-  </a>
+    <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FDD64B?style=for-the-badge&logo=repo&logoColor=black&labelColor=f7c719" style="height: 30px;"/></a>
 
   <!-- GitHub Followers Badge -->
   <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andrrade?color=4CAF50&labelColor=388E3C&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="height: 30px;"/>
-  </a>
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/andrrade?color=17821C&labelColor=0F5912&style=for-the-badge&logo=person-add&label=Follow&logoColor=white" style="height: 30px;"/></a>
 
   <!-- Profile Views Counter -->
   <a href="https://github.com/andrrade" style="text-decoration: none;">
-    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=andrrade&color=3B3A3A&style=for-the-badge&label=VIEWS" style="height: 30px;"/>
-  </a>
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=andrrade&color=3B3A3A&style=for-the-badge&label=VIEWS" style="height: 30px;"/></a>
 </p>
 
 <!-- GitHub Logo -->
@@ -41,27 +36,21 @@
 
 <!-- Welcome Message -->
 <p>
-  Seja bem-vindo(a)! 
+  Seja muito bem-vindo(a)! 
   <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">
 </p>
 
-<!-- JavaScript code -->
-```javascript
-const LauraAndrade = {
-  pronouns: "she/her", 
-  code: [Javascript, HTML, CSS, Java],
-  currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." 
-}
-```
-### 🛠️ Languages and Tools...
+### 🛠️ Languages, Tools and Frameworks
 <p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aintellij"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?logo=intellijidea&logoColor=white"></a> 
-  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Avscode"><img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-007ACC.svg?logo=visual-studio-code&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1155ba.svg?logo=css3&logoColor=white"></a> 
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-B23121.svg?logo=html5&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7c719.svg?logo=javascript&logoColor=black"></a>
+    <a href="#"><img alt="Flask" src="https://img.shields.io/badge/Flask-0F5912.svg?logo=flask&logoColor=white"></a> <!-- Badge do Flask -->
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aintellij"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-3B3A3A.svg?logo=intellijidea&logoColor=white"></a> 
+    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-f26d00.svg?logo=java&logoColor=white"></a>
 </p>
+
 
 
 
