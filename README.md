@@ -58,7 +58,10 @@ const LauraAndrade = {
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aintellij"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-3B3A3A.svg?logo=intellijidea&logoColor=white"></a> 
     <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-f26d00.svg?logo=java&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/Language%20C-1155ba.svg?logo=c&logoColor=white"></a> <!-- Badge do C -->
 </p>
+
+
 
 <!-- GitHub Stats -->
 <p align="center">
