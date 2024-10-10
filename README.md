@@ -41,10 +41,10 @@
 </p>
 
 <!-- JavaScript code -->
-```javascript
+``` python
 const LauraAndrade = {
   pronouns: "she/her", 
-  code: [Javascript, HTML, CSS, Java],
+  code: [Python, JavaScript, C, Java],
   currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." 
 }
 ```
