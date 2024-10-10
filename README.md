@@ -41,7 +41,7 @@
 </p>
 
 <!-- JavaScript code -->
-``` python
+``` javascript
 const LauraAndrade = {
   pronouns: "she/her", 
   code: [Python, JavaScript, C, Java],
