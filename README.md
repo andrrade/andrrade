@@ -103,3 +103,6 @@ const LauraAndrade = {
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=footer"/> 
+
+<p align="center">Confira abaixo alguns projetos que desenvolvi &lt;/&gt;</p>
+<p align="center"><img width="100rem" height="100rem" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif"></p>
