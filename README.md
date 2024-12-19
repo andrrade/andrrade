@@ -1,6 +1,8 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=header"/>
 
+
+
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/andrrade/readme-typing-svg">
@@ -26,10 +28,18 @@
 <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
     <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=17821C&labelColor=0F5912&logo=github" style="height: 30px;" /></a>
 
-  <!-- Profile Views Counter -->
+  <!-- Profile Views Counter 
   <a href="https://github.com/andrrade" style="text-decoration: none;">
     <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=andrrade&color=3B3A3A&style=for-the-badge&label=VIEWS" style="height: 30px;"/></a>
 </p>
+-->
+
+<!-- Starred Repositories Badge -->
+<a href="https://github.com/andrrade?tab=stars" style="text-decoration: none;">
+    <img alt="Starred Repositories" title="Repositories I've Starred" 
+         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-3B3A3A?style=for-the-badge&logo=star&logoColor=white&labelColor=4E4A4A" 
+         style="height: 30px;"/>
+</a>
 
 <!-- GitHub Logo -->
 <img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
