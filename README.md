@@ -1,8 +1,6 @@
 <!-- Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=header"/>
 
-
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://github.com/andrrade/readme-typing-svg">
@@ -70,8 +68,6 @@ const LauraAndrade = {
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-f26d00.svg?logo=java&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/Language%20C-1155ba.svg?logo=c&logoColor=white"></a> <!-- Badge do C -->
 </p>
-
-
 
 <!-- GitHub Stats -->
 <p align="center">
