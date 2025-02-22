@@ -53,7 +53,7 @@
 const LauraAndrade = {
   pronouns: "she/her", 
   code: [Python, JavaScript, C, Java],
-  currently: "Estou cursando Análise e Desenvolvimento de Sistemas na Fatec Franca." 
+  currently: "Estou participando do programa de bolsas DevSecOps da Compass UOL." 
 }
 ```
 
