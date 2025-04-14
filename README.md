@@ -51,7 +51,7 @@ class LauraAndrade:
 ```
 
 ## ✨ Sobre Mim
-
+<br>
 <img align="left" alt="cat-coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="160" />
 
 👩🏻‍💻 **Estagiária em DevSecOps**
@@ -60,6 +60,7 @@ Cursando Análise e Desenvolvimento de Sistemas (5º semestre) na Fatec Franca.
 
 Atualmente estagiando na Compass UOL na área de DevSecOps, onde venho aplicando e expandindo meus conhecimentos em cloud, segurança, automação e infraestrutura.
 Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade constante de aprender**. Acredito na evolução contínua, buscando ser **1% melhor que ontem todos os dias**.
+<br>
 
 ---
 
@@ -85,6 +86,8 @@ Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=nightowl&layout=compact&card_width=100">
   <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=nightowl&locale=pt_BR&card_width=300">
 </div>
+
+<br><br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
