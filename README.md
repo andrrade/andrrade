@@ -34,7 +34,7 @@
 </a>
 
 <!-- GitHub Logo -->
-<img align="right" alt="pic" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
+<img align="right" alt="octocat-gif" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
 
 <!-- Welcome Message -->
 <p>
@@ -52,7 +52,7 @@ class LauraAndrade:
 
 ## ✨ Sobre Mim
 <br>
-<img align="left" alt="cat-coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="160" />
+<img align="left" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="160" />
 
 👩🏻‍💻 **Estagiária em DevSecOps**
 
