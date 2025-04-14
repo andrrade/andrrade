@@ -24,7 +24,7 @@
 
   <!-- GitHub Followers Badge -->
 <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
-    <img alt="followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=17821C&labelColor=0F5912&logo=github" style="height: 30px;" /></a>
+    <img alt="followers" title="My Followers on GitHub" src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=17821C&labelColor=0F5912&logo=github" style="height: 30px;" /></a>
 
 <!-- Starred Repositories Badge -->
 <a href="https://github.com/andrrade?tab=stars" style="text-decoration: none;">
@@ -52,7 +52,7 @@ class LauraAndrade:
 
 ## ✨ Sobre Mim
 
-<img align="right" alt="cat-coding-gif" src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="120" />
+<img align="left" alt="cat-coding-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="160" />
 
 👩🏻‍💻 **Estagiária em DevSecOps**
 
@@ -61,7 +61,7 @@ Cursando Análise e Desenvolvimento de Sistemas (5º semestre) na Fatec Franca.
 Atualmente estagiando na Compass UOL na área de DevSecOps, onde venho aplicando e expandindo meus conhecimentos em cloud, segurança, automação e infraestrutura.
 Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade constante de aprender**. Acredito na evolução contínua, buscando ser **1% melhor que ontem todos os dias**.
 
-Tenho experiência com **Git, GitHub, Linux e Python**, e estou me preparando para conquistar certificações AWS em breve. ☁️
+---
 
 ### 🛠️ Languages, Tools and Frameworks
 <p>
@@ -75,11 +75,10 @@ Tenho experiência com **Git, GitHub, Linux e Python**, e estou me preparando pa
     <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/Language%20C-1155ba.svg?logo=c&logoColor=white"></a> <!-- Badge do C -->
 </p>
 
-<!-- GitHub Stats -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
+<!-- Separator Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
 
+<!-- GitHub Stats -->
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=nightowl&rank_icon=github&card_width=100" />
