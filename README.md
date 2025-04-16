@@ -3,14 +3,13 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <a href="https://github.com/andrrade/readme-typing-svg">
+  <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com/?lines=Oi,%20eu%20sou%20a%20Laura%20:);Amo%20estudar%20tecnologia!%20%F0%9F%92%9C&font=Fira%20Code&center=true&vCenter=true&width=435&height=45&color=C791EB&pause=1000&size=22" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C791EB&width=435&center=true&vCenter=true&lines=Oi%2C+eu+sou+a+Laura+%3A)+%F0%9F%92%9C;%22Consist%C3%AAncia+supera+intensidade%22" 
       alt="Typing SVG" 
     />
   </a>
 </p>
-
 
 <!-- Contact Badges -->
 <p align="center">
