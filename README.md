@@ -11,7 +11,6 @@
   </a>
 </p>
 
-
 <!-- Contact Badges -->
 <p align="center">
   <!-- LinkedIn Badge -->
@@ -119,5 +118,7 @@ Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=footer"/> 
 
-<p align="center">Confira abaixo alguns projetos que desenvolvi &lt;/&gt;</p>
+<div align="center">
+  <h4>Confira abaixo alguns projetos que desenvolvi &lt;/&gt;</h4>
+</div>
 <p align="center"><img width="50rem" height="50rem" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif"></p>
