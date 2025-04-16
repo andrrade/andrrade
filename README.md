@@ -2,15 +2,14 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:2a304fff&height=100&section=header"/>
 
 <!-- Typing SVG -->
-<div align="center">
-  <a href="https://git.io/typing-svg">
+<p align="center">
+  <a href="https://github.com/andrrade/readme-typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C791EB&width=435&lines=Oi%2C+eu+sou+a+Laura+%3A);Amo+estudar+tecnologia!+%F0%9F%92%9C" 
+      src="https://readme-typing-svg.demolab.com/?lines=Oi,%20eu%20sou%20a%20Laura%20:);Amo%20estudar%20tecnologia!%20%F0%9F%92%9C&font=Fira%20Code&center=true&vCenter=true&width=435&height=45&color=C791EB&pause=1000&size=22" 
       alt="Typing SVG" 
     />
   </a>
-</div>
-
+</p>
 
 
 <!-- Contact Badges -->
