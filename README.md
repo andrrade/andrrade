@@ -5,11 +5,12 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C791EB&width=435&center=true&vCenter=true&lines=Oi%2C+eu+sou+a+Laura+%3A)+%F0%9F%92%9C;%22Consist%C3%AAncia+supera+intensidade%22" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C791EB&width=435&center=true&vCenter=true&size=22&lines=Oi%2C+eu+sou+a+Laura+%3A)+%F0%9F%92%9C;%22Consist%C3%AAncia+supera+intensidade%22" 
       alt="Typing SVG" 
     />
   </a>
 </p>
+
 
 <!-- Contact Badges -->
 <p align="center">
@@ -68,16 +69,7 @@ Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade
 ---
 
 ### 🛠️ Languages, Tools and Frameworks
-<p>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Acss"><img alt="CSS" src="https://img.shields.io/badge/CSS-1155ba.svg?logo=css3&logoColor=white"></a> 
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-B23121.svg?logo=html5&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3AJavascript"><img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-f7c719.svg?logo=Javascript&logoColor=black"></a>
-    <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python-0F5912.svg?logo=Python&logoColor=white"></a> <!-- Badge do Python -->
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Aintellij"><img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ%20IDEA-3B3A3A.svg?logo=intellijidea&logoColor=white"></a> 
-    <a href="#"><img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3ALinux"><img alt="Linux" src="https://custom-icon-badges.demolab.com/badge/Linux-f26d00.svg?logo=Linux&logoColor=white"></a>
-    <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ac"><img alt="C" src="https://img.shields.io/badge/Language%20C-1155ba.svg?logo=c&logoColor=white"></a> <!-- Badge do C -->
-</p>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,c,python,nodejs,mysql,git,github,linux,aws,docker,vscode,figma)](https://skillicons.dev)
 
 <!-- Separator Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
@@ -91,6 +83,20 @@ Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade
 </div>
 
 <br><br>
+
+---
+
+<div align="center">
+  <h2>Meus Badges</h2>
+</div>
+<p align="center">
+    <img style="height: 100px;" src="https://github.com/user-attachments/assets/0add8e3e-047e-468e-885e-325b923e7e0d" />
+</p>
+<p align="center">
+    <a href="https://www.credly.com/badges/c44634ff-b24f-459e-a029-dd94adc080cc" target="_blank">AWS Cloud Quest: Cloud Practitioner</a>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
