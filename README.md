@@ -67,8 +67,13 @@ Sou apaixonada por tecnologia, **extremamente dedicada** e **movida pela vontade
 
 ---
 
-### 🛠️ Languages, Tools and Frameworks
-[![My Skills](https://skillicons.dev/icons?i=aws,python,docker,linux,git,github,mysql,html,css,js,c,nodejs,vscode,figma)](https://skillicons.dev)
+<h3>🛠️ Languages, Tools and Frameworks</h3>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,python,linux,git,github,docker,kubernetes,mysql,html,css,js,c,nodejs,vscode,figma" />
+  </a>
+</p>
 
 <!-- Separator Line -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
