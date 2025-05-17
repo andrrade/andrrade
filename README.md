@@ -37,8 +37,6 @@
     <img alt="Followers" title="My Followers on GitHub" 
          src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white" 
          style="height: 30px;" /></a>
-
- 
 </p>
 
 <br>
@@ -57,7 +55,7 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 
 ---
 
-### 🛠️ Languages, Tools and Frameworks
+### 👩🏻‍💻 Stacks
 
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=aws,python,linux,git,github,docker,kubernetes,mysql,html,css,js,c,nodejs,vscode,figma" />
@@ -68,13 +66,13 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <!-- Philosopher Quote -->
 <p align="center">
   <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Toda%20reforma%20interior%20e%20toda%20mudan%C3%A7a%20para%20melhor%20dependem%20exclusivamente%20da%20aplica%C3%A7%C3%A3o%20do%20nosso%20pr%C3%B3prio%20esfor%C3%A7o.&author=Kant" alt="Readme Quotes" />
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Every%20inner%20reform%20and%20every%20change%20for%20the%20better%20depends%20exclusively%20on%20the%20application%20of%20our%20own%20effort.&author=Kant" alt="Readme Quotes" />
   </a>
 </p>
 
 <div align="center">
 
-## ✅ Meus Badges
+### ✅ My Badges
   
 | Introduction to FinOps                                     | AWS Cloud Quest: Cloud Practitioner                      |
 | :--------------------------------------------------------: | :------------------------------------------------------: |
@@ -107,6 +105,6 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=80&section=footer"/> 
 
 <div align="center">
-  <h4>Confira abaixo alguns projetos que desenvolvi &lt;/&gt;</h4>
+  <h4>Check out some projects I’ve developed below &lt;/&gt;</h4>
 </div>
 <p align="center"><img width="50rem" height="50rem" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif"></p>
