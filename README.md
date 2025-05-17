@@ -10,26 +10,36 @@
 <p align="center">
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/andrrade" style="text-decoration: none;">
-    <img alt="LinkedIn" title="Connect with me on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1155ba" style="height: 30px;"/></a>
-  
+    <img alt="LinkedIn" title="Connect with me on LinkedIn" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
+         style="height: 30px;" /></a>
+
   <!-- Gmail Badge -->
   <a href="mailto:devandrrade@gmail.com" style="text-decoration: none;">
-    <img alt="Gmail" title="Send me an email" src="https://custom-icon-badges.demolab.com/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=B23121" style="height: 30px;"/></a>
+    <img alt="Gmail" title="Send me an email" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
+         style="height: 30px;" /></a>
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
-    <img alt="repositories" title="See my repositories on GitHub" src="https://custom-icon-badges.demolab.com/badge/-Repositories-FDD64B?style=for-the-badge&logo=repo&logoColor=black&labelColor=f7c719" style="height: 30px;"/></a>
+    <img alt="Repositories" title="See my repositories on GitHub" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781" 
+         style="height: 30px;" /></a>
 
-  <!-- GitHub Followers Badge -->
-<a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
-    <img alt="followers" title="My Followers on GitHub" src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=17821C&labelColor=0F5912&logo=github" style="height: 30px;" /></a>
-
-<!-- Starred Repositories Badge -->
-<a href="https://github.com/andrrade?tab=stars" style="text-decoration: none;">
+ <!-- Starred Repositories Badge -->
+  <a href="https://github.com/andrrade?tab=stars" style="text-decoration: none;">
     <img alt="Starred Repositories" title="Repositories I've Starred" 
-         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-3B3A3A?style=for-the-badge&logo=star&logoColor=white&labelColor=4E4A4A" 
-         style="height: 30px;"/>
-</a>
+         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
+         style="height: 30px;" /></a>
+         
+  <!-- GitHub Followers Badge -->
+  <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
+    <img alt="Followers" title="My Followers on GitHub" 
+         src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white" 
+         style="height: 30px;" /></a>
+
+ 
+</p>
 
 <br>
 <br>
@@ -77,7 +87,7 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=22&lines=%22Better+than+yesterday%22" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=20&lines=%22Better+than+yesterday%22" 
       alt="Typing SVG" 
     />
   </a>
