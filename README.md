@@ -90,7 +90,8 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
   </a>
 </p>
 
----
+<!-- Separator Line -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
@@ -98,8 +99,6 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
 
-<!-- Separator Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=80&section=footer"/> 
