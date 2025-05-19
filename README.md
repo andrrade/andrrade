@@ -104,6 +104,18 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=80&section=footer"/> 
 
+<!-- GitHub Stats -->
+<details>
+  <summary>Github Stats ⚡</summary>
+  <br>
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <!-- GitHub Stats Cards -->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
+  <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=blueberry&locale=pt_BR&card_width=300">
+</div>
+</details>
+
 <div align="center">
   <h4>Check out some projects I’ve developed below &lt;/&gt;</h4>
 </div>
