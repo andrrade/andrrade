@@ -55,7 +55,7 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 
 ---
 
-### 👩🏻‍💻 Stacks
+<h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws icon" width="50" height="50" />
