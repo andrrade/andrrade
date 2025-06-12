@@ -57,9 +57,22 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 
 ### 👩🏻‍💻 Stacks
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=aws,python,linux,git,github,docker,kubernetes,mysql,html,css,js,c,nodejs,vscode,figma" />
-</a>
+<div align="center">
+  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python icon" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="55" height="55" />
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes icon" width="60" height="60" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="60" height="60" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js icon" width="55" height="55" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
+</div>
 
 ---
 
