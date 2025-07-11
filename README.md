@@ -98,7 +98,7 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F1F2ED&width=435&lines=Conhecimento+%C3%A9+ousadia;Better+than+yesterday" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=20&lines=Conhecimento+%C3%A9+ousadia;Better+than+yesterday" 
       alt="Typing SVG" 
     />
   </a>
