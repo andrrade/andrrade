@@ -88,9 +88,9 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 
 ### ✅ My Badges
   
-| Introduction to FinOps                                     | AWS Cloud Quest: Cloud Practitioner                      |
-| :--------------------------------------------------------: | :------------------------------------------------------: |
-| <a href="http://verify.skilljar.com/c/bkudbws7zqqp" target="_blank"><img src="https://github.com/user-attachments/assets/af78e6f2-17e2-4900-a075-5d635cba8dc4" height="100px" /></a> | <a href="https://www.credly.com/badges/c44634ff-b24f-459e-a029-dd94adc080cc" target="_blank"><img src="https://github.com/user-attachments/assets/0add8e3e-047e-468e-885e-325b923e7e0d" height="100px" /></a> |
+| Introduction to FinOps                                     | AWS Cloud Quest: Cloud Practitioner                      | AWS Cloud Practitioner |
+| :--------------------------------------------------------: | :------------------------------------------------------: | :--------------------: |
+| <a href="http://verify.skilljar.com/c/bkudbws7zqqp" target="_blank"><img src="https://github.com/user-attachments/assets/af78e6f2-17e2-4900-a075-5d635cba8dc4" height="100px" /></a> | <a href="https://www.credly.com/badges/c44634ff-b24f-459e-a029-dd94adc080cc" target="_blank"><img src="https://github.com/user-attachments/assets/0add8e3e-047e-468e-885e-325b923e7e0d" height="100px" /></a> | <a href="https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/e0cd1147-bf92-413f-a573-44d84c5df547" height="100px" /></a> |
 
 </div>
 
