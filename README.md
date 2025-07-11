@@ -98,14 +98,13 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=20&lines=%22Better+than+yesterday%22" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F1F2ED&width=435&lines=Conhecimento+%C3%A9+ousadia;Better+than+yesterday" 
       alt="Typing SVG" 
     />
   </a>
 </p>
 
-<!-- Separator Line -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="separator line" />
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
