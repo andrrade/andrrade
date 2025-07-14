@@ -49,7 +49,7 @@
 <br>
 <br>
 
-I'm currently studying Systems Analysis and Development (5th semester) at Fatec Franca. I'm interning at Compass UOL in the DevSecOps area, where I apply and expand my knowledge in cloud, security, automation, and infrastructure. Passionate about technology, I'm extremely dedicated and driven by a constant desire to learn and grow, aiming to be 1% better every day.
+I'm a curious, dedicated, and hardworking person who is always looking to improve and grow. I have a strong interest in cloud, security, and automation, and I'm constantly expanding my skills in these areas. I'm [AWS Certified (Cloud Practitioner)](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url). Always driven by a desire to learn, I believe in consistent effort and strive to be 1% better every day.
 
 <br>
 
@@ -58,21 +58,16 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
 <h3><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="30" height="30" /> Stacks </h3>
 
 <div align="center">
-  <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="aws icon" width="50" height="50" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="python icon" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" />
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="github icon" width="55" height="55" />
-  <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="docker icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="kubernetes icon" width="60" height="60" />
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql icon" width="60" height="60" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="js icon" width="55" height="55" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" height="50" alt="jenkins logo" />
+  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img alt="Kubernetes" src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img alt="Jenkins" src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
 </div>
 
 ---
@@ -83,16 +78,6 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Every%20inner%20reform%20and%20every%20change%20for%20the%20better%20depends%20exclusively%20on%20the%20application%20of%20our%20own%20effort.&author=Kant" alt="Readme Quotes" />
   </a>
 </p>
-
-<div align="center">
-
-### ✅ My Badges
-  
-| Introduction to FinOps                                     | AWS Cloud Quest: Cloud Practitioner                      | AWS Cloud Practitioner |
-| :--------------------------------------------------------: | :------------------------------------------------------: | :--------------------: |
-| <a href="http://verify.skilljar.com/c/bkudbws7zqqp" target="_blank"><img src="https://github.com/user-attachments/assets/af78e6f2-17e2-4900-a075-5d635cba8dc4" height="100px" /></a> | <a href="https://www.credly.com/badges/c44634ff-b24f-459e-a029-dd94adc080cc" target="_blank"><img src="https://github.com/user-attachments/assets/0add8e3e-047e-468e-885e-325b923e7e0d" height="100px" /></a> | <a href="https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url" target="_blank"><img src="https://github.com/user-attachments/assets/e0cd1147-bf92-413f-a573-44d84c5df547" height="100px" /></a> |
-
-</div>
 
 <!-- Typing SVG -->
 <p align="center">
@@ -112,7 +97,6 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph.svg">
 </picture>
 
-
 <!-- Footer -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=80&section=footer"/> 
 
@@ -124,7 +108,6 @@ I'm currently studying Systems Analysis and Development (5th semester) at Fatec 
   <!-- GitHub Stats Cards -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
-  <img height="140em" src="https://streak-stats.demolab.com?user=andrrade&theme=blueberry&locale=pt_BR&card_width=300">
 </div>
 </details>
 
