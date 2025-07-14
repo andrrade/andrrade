@@ -42,16 +42,15 @@
 <br>
 
 <!-- GitHub Logo -->
-<img align="right" alt="octocat-gif" src="https://gist.githubusercontent.com/theAdityaNVS/f5b585d1082da2dffffea32434f37956/raw/7f9552d0a179b4f84059259fa878199e369b069c/GitHub-logo.gif" min-width="200px" max-width="200px" width="200px" alt="Animação da logo do GitHub">
 
-<img align="left" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="160" />
-
-<br>
-<br>
-
-I'm a curious, dedicated, and hardworking person who is always looking to improve and grow. I have a strong interest in cloud, security, and automation, and I'm constantly expanding my skills in these areas. I'm [AWS Certified (Cloud Practitioner)](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url). Always driven by a desire to learn, I believe in consistent effort and strive to be 1% better every day.
+<img align="right" alt="tux-typing-gif" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fmedia.tenor.com%2FdHk-LfzHrtwAAAAj%2Flinux-computer.gif&f=1&nofb=1&ipt=7c3ad5bd59f54e8a996347ae2cf673f43853d1d1e827c1ddbe9f08041c20c378" width="130px" />
 
 <br>
+
+I'm a curious, dedicated, and hardworking person who is always looking to improve and grow. I have a strong interest in cloud, security, and automation, and I'm constantly expanding my skills in these areas.
+I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url). Always driven by a desire to learn, I believe in consistent effort and strive to be 1% better every day.
+
+
 
 ---
 
