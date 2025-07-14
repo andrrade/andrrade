@@ -77,13 +77,6 @@ I'm a curious, dedicated, and hardworking person who is always looking to improv
 
 ---
 
-<!-- Philosopher Quote -->
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Every%20inner%20reform%20and%20every%20change%20for%20the%20better%20depends%20exclusively%20on%20the%20application%20of%20our%20own%20effort.&author=Kant" alt="Readme Quotes" />
-  </a>
-</p>
-
 <!-- Typing SVG -->
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -93,8 +86,6 @@ I'm a curious, dedicated, and hardworking person who is always looking to improv
     />
   </a>
 </p>
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Francine02/Francine02/output/pacman-contribution-graph-dark.svg">
@@ -107,13 +98,22 @@ I'm a curious, dedicated, and hardworking person who is always looking to improv
 
 <!-- GitHub Stats -->
 <details>
-  <summary>Github Stats ⚡</summary>
+  <summary>Github Stats + Philosopher Quote ⚡</summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
 </div>
+  
+<br>
+
+<!-- Philosopher Quote -->
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Every%20inner%20reform%20and%20every%20change%20for%20the%20better%20depends%20exclusively%20on%20the%20application%20of%20our%20own%20effort.&author=Kant" alt="Readme Quotes" />
+  </a>
+</p>
 </details>
 
 <div align="center">
