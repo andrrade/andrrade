@@ -76,7 +76,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=18&lines=Conhecimento+%C3%A9+ousadia;Better+than+yesterday" 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F1F2ED&width=500&center=true&vCenter=true&size=18&lines=Knowledge+is+boldness;Better+than+yesterday" 
       alt="Typing SVG" 
     />
   </a>
@@ -93,7 +93,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 
 <!-- GitHub Stats -->
 <details>
-  <summary>Github Stats + Philosopher Quote ⚡</summary>
+  <summary>Github Stats ⚡</summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
@@ -101,17 +101,9 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
 </div>
   
-<br>
-
-<!-- Philosopher Quote -->
-<p align="center">
-  <a href="https://github.com/piyushsuthar/github-readme-quotes">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula&quote=Every%20inner%20reform%20and%20every%20change%20for%20the%20better%20depends%20exclusively%20on%20the%20application%20of%20our%20own%20effort.&author=Kant" alt="Readme Quotes" />
-  </a>
-</p>
 </details>
 
 <div align="center">
   <h4>Check out some projects I’ve developed below &lt;/&gt;</h4>
 </div>
-<p align="center"><img width="50rem" height="50rem" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif"></p>
+<p align="center"><img width="50rem" height="80" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif"></p>
