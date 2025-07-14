@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=70&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=80&section=header"/>
 
 # Laura Andrade
 
@@ -99,8 +99,3 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 </div>
   
 </details>
-
-<div align="center">
-  <h4>Check out some projects I’ve developed below &lt;/&gt;</h4>
-</div>
-<p align="center"><img width="50rem" height="80" src="https://images.squarespace-cdn.com/content/v1/5e434f42b336ca3ec386fc86/1617722464154-DUELV5VKUIJQYUQ4SOXV/Arrow-Down.gif"></p>
