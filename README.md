@@ -1,6 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:c791ebff,100:b4aec2ff&height=80&section=header"/>
-
-##  Laura Andrade
+# Laura Andrade
 
 **`DevSecOps Intern (Compass UOL)`**
 
