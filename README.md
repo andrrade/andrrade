@@ -31,10 +31,10 @@
          style="height: 27px;" /></a>
          
   <!-- GitHub Followers Badge -->
-  <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
-    <img alt="Followers" title="My Followers on GitHub" 
-         src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white" 
-         style="height: 27px;" /></a>
+<a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
+  <img alt="Followers" title="My Followers on GitHub" 
+       src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
+       style="height: 27px;" /></a>
 </p>
 
 <!-- GitHub Logo -->
