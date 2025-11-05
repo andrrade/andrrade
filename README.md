@@ -9,31 +9,31 @@
   <!-- LinkedIn Badge -->
   <a href="https://www.linkedin.com/in/andrrade" style="text-decoration: none;">
     <img alt="LinkedIn" title="Connect with me on LinkedIn" 
-         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-282A36?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=400d27" 
          style="height: 27px;" /></a>
 
   <!-- Gmail Badge -->
   <a href="mailto:devandrrade@gmail.com" style="text-decoration: none;">
     <img alt="Gmail" title="Send me an email" 
-         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-Gmail-282A36?style=for-the-badge&logo=gmail&logoColor=white&labelColor=400d27" 
          style="height: 27px;" /></a>
 
   <!-- GitHub Repositories Badge -->
   <a href="https://github.com/andrrade?tab=repositories" style="text-decoration: none;">
     <img alt="Repositories" title="See my repositories on GitHub" 
-         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-Repositories-282A36?style=for-the-badge&logo=repo&logoColor=white&labelColor=400d27" 
          style="height: 27px;" /></a>
 
  <!-- Starred Repositories Badge -->
   <a href="https://github.com/andrrade?tab=stars" style="text-decoration: none;">
     <img alt="Starred Repositories" title="Repositories I've Starred" 
-         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=634781" 
+         src="https://custom-icon-badges.demolab.com/badge/-Starred%20Repos-282A36?style=for-the-badge&logo=star&logoColor=white&labelColor=400d27" 
          style="height: 27px;" /></a>
          
   <!-- GitHub Followers Badge -->
 <a href="https://github.com/andrrade?tab=followers" style="text-decoration: none;">
   <img alt="Followers" title="My Followers on GitHub" 
-       src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=634781&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
+       src="https://img.shields.io/github/followers/andrrade?style=for-the-badge&color=400d27&labelColor=282A36&logo=github&logoColor=white&cacheSeconds=1" 
        style="height: 27px;" /></a>
 </p>
 
@@ -92,8 +92,8 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=blueberry&rank_icon=github&card_width=100" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=blueberry&layout=compact&card_width=100">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=andrrade&show_icons=true&locale=en&theme=radical&rank_icon=github&card_width=100" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrrade&theme=radical&layout=compact&card_width=100">
 </div>
   
 </details>
