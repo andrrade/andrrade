@@ -1,6 +1,6 @@
 # Laura Andrade
 
-**`DevSecOps Intern (Compass UOL)`**
+<!-- **`DevSecOps Intern (Compass UOL)`**  -->
 
 <br>
 
@@ -45,6 +45,9 @@
 
 I'm a curious, dedicated, and hardworking person who is always looking to improve and grow. I have a strong interest in cloud, security, and automation, and I'm constantly expanding my skills in these areas.
 I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221d40ac0a1b/public_url). Always driven by a desire to learn, I believe in consistent effort and strive to be 1% better every day.
+
+![Brazil](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/br.png "Brazil") Native Portuguese</br>
+![United States](https://raw.githubusercontent.com/stevenrskelton/flag-icon/master/png/16/country-4x3/us.png "United States") Advanced English
 
 ---
 
