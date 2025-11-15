@@ -91,7 +91,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 
 <!-- GitHub Stats -->
 <details>
-  <summary><strong>⚡ Github Stats</strong></summary>
+  <summary><strong>:octocat: Github Stats</strong></summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
