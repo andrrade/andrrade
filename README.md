@@ -1,6 +1,6 @@
 # Laura Andrade
 
-<!-- **`DevSecOps Intern (Compass UOL)`**  -->
+`Junior DevOps Analyst at Jussara`
 
 <br>
 
