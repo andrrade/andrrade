@@ -106,7 +106,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 
   <div>
 
-[<img align="left" width="116px" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/andrrade/andrrade/blob/main/badges/aws-certified-cloud-practitioner.png" />](https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b)
+[<img align="left" width="150px" alt="AWS Certified Cloud Practitioner Badge" src="https://github.com/andrrade/andrrade/blob/main/badges/aws-certified-cloud-practitioner.png" />](https://www.credly.com/earner/earned/badge/b3f78901-69aa-4e8e-9c65-221d40ac0a1b)
 
   <p align="right">
     
