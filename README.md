@@ -91,7 +91,7 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 
 <!-- GitHub Stats -->
 <details>
-  <summary>⚡ Github Stats</summary>
+  <summary><strong>⚡ Github Stats</strong></summary>
   <br>
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center;">
   <!-- GitHub Stats Cards -->
@@ -101,8 +101,8 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 </details>
 
 <!-- Certifications -->
-<details open> 
-  <summary>📜 Certifications</summary>
+<details> 
+  <summary><strong>📜 Certifications</strong></summary>
 
   <div>
 
@@ -110,11 +110,18 @@ I'm [1x AWS Certified](https://www.credly.com/badges/b3f78901-69aa-4e8e-9c65-221
 
   <p align="right">
     
-  **Certification:** `AWS Certified Cloud Practitioner`
-
+  **Certification:** `AWS Certified Cloud Practitioner`  
   **Issuing Organization:** Amazon Web Services Training and Certification  
   **Issuing Date:** 07/10/2025  
-  **Expiration Date:** 07/10/2028
+  **Expiration Date:** 07/10/2028  
   </p>
+
+  <details>
+    <summary><strong>Description</strong></summary>
+    The AWS Certified Cloud Practitioner validates foundational, high-level understanding of AWS Cloud, services, and terminology.  
+    This is a good starting point on the AWS Certification journey for individuals with no prior IT or cloud experience switching to a cloud career or for line-of-business employees looking for foundational cloud literacy.
+  </details>
+
   </div>
 </details>
+
