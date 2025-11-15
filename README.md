@@ -1,6 +1,6 @@
 # Laura Andrade
 
-`Junior DevOps Analyst at Jussara`
+`Junior DevOps Analyst` ([Jussara](https://www.linkedin.com/company/usina-de-laticinios-jussara-s-a-/))
 
 <br>
 
